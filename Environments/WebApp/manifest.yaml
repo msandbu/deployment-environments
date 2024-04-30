@@ -1,4 +1,4 @@
 name: WebApp
 summary: Deploys Web App on Terraform Container
-description: Deploys an Azure Web App without a data store
+description: Deploys an Azure Web App using Terraform
 runner: "acrsdasd.azurecr.io/customimage:1.0.0"
